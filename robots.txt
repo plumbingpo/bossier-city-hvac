@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bossiercityhvacco.com/sitemap.xml
